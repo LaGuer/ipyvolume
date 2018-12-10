@@ -7,7 +7,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/maartenbreddels/ipyvolume/badge.svg)](https://coveralls.io/github/maartenbreddels/ipyvolume)
 [![Build Status](https://travis-ci.org/maartenbreddels/ipyvolume.svg?branch=master)](https://travis-ci.org/maartenbreddels/ipyvolume)
 
-Try out in mybinder: [![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/maartenbreddels/ipyvolume/master?filepath=notebooks/simple.ipynb)
+Try out in mybinder: [![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/laguer/ipyvolume/master?filepath=notebooks/simple.ipynb)
 
 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
 
